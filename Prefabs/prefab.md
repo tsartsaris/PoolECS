@@ -1,0 +1,1 @@
+Game object with a MeshInstanceRendererComponent
